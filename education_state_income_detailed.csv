@@ -1,0 +1,37 @@
+State,Income Class,Literacy Rate (%),Primary (%),Secondary (%),Higher Secondary (%),Graduation (%),Issues Faced
+Maharashtra,Rich,92,98,95,91,89,None/Minor
+Maharashtra,Middle,83,90,82,70,58,"Financial, Access to quality schools"
+Maharashtra,Lower Middle,72,86,70,52,38,"Tuition cost, family pressure"
+Bihar,Rich,85,96,93,87,81,Low-quality infrastructure
+Bihar,Middle,71,88,76,64,48,"Teacher shortage, financial stress"
+Bihar,Lower Middle,58,80,62,40,21,"Poverty, Dropout due to work"
+Kerala,Rich,96,99,98,96,92,Minor access issues
+Kerala,Middle,91,95,92,88,75,Internet access in rural areas
+Kerala,Lower Middle,85,90,84,74,60,Cost of private schools
+Gujarat,Rich,88,95,90,85,80,None/Minor
+Gujarat,Middle,76,88,80,68,55,"Financial pressure, quality variation"
+Gujarat,Lower Middle,64,81,66,50,35,"School fees, early responsibility"
+Tamil Nadu,Rich,90,96,92,88,85,None
+Tamil Nadu,Middle,80,91,85,76,63,"Financial issues, school access"
+Tamil Nadu,Lower Middle,70,85,72,56,40,"Work obligations, tuition costs"
+Rajasthan,Rich,86,94,89,83,78,Minor issues
+Rajasthan,Middle,73,86,77,66,50,"Distance to schools, funds"
+Rajasthan,Lower Middle,60,78,63,45,28,"Poverty, early marriage"
+Punjab,Rich,89,97,94,89,84,None
+Punjab,Middle,78,89,83,72,60,"Tuition pressure, access"
+Punjab,Lower Middle,66,82,68,52,36,"Family pressure, fees"
+Karnataka,Rich,91,98,95,90,86,None
+Karnataka,Middle,82,90,83,74,62,Access in rural zones
+Karnataka,Lower Middle,70,84,69,54,39,"Cost of education, travel"
+Uttar Pradesh,Rich,84,93,88,82,77,None
+Uttar Pradesh,Middle,70,85,74,63,47,"School distance, financial pressure"
+Uttar Pradesh,Lower Middle,55,77,60,42,26,"Poverty, work pressure"
+West Bengal,Rich,87,95,91,86,82,Minor issues
+West Bengal,Middle,75,87,79,69,53,"Limited resources, finance"
+West Bengal,Lower Middle,62,80,65,48,32,"Dropout risk, family duty"
+Odisha,Rich,86,94,90,85,81,None
+Odisha,Middle,74,86,78,68,52,"Remote location, money"
+Odisha,Lower Middle,61,79,64,46,30,"School cost, rural problems"
+Madhya Pradesh,Rich,85,93,89,84,80,None
+Madhya Pradesh,Middle,72,84,76,65,49,"Infrastructure gap, finance"
+Madhya Pradesh,Lower Middle,58,76,61,44,27,"Work stress, education cost"
